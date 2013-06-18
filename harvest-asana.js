@@ -4,6 +4,7 @@
 // @version    0.1
 // @description  add Harvest's time tracking functionality to Asana
 // @match      *.asana.com/*
+// @include    *.asana.com/*
 // @copyright  2012+, You
 // ==/UserScript==
 
